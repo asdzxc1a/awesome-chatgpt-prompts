@@ -1,0 +1,13 @@
+{
+  "name": "prompts-chat",
+  "version": "1.0.0",
+  "description": "World's First & Most Famous Prompts Directory",
+  "private": true,
+  "scripts": {
+    "dev": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build"
+  },
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
